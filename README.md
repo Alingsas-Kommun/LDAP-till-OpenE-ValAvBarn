@@ -8,7 +8,7 @@ Servern är en Linuxserver, Ubuntu LTS. Detta dokument har enbart exempel från 
 
 Installerat på den är Apache samt php. Php har tillägget php-ldap för att kunna prata med LDAP. Php-mbstring är också installerat för kraftfullare sökningar.
 
-Installera Ubuntu enligt den stegvisa guiden. För att följa den behöver du ha en fast ip-adress samt ett namn på servern i DNS. I mitt fall heter servern api01.alingsas.se och är det namn jag använder fortlöpande i dokumentet.
+Installera Ubuntu enligt den stegvisa guiden. För att följa den behöver du ha en fast ip-adress samt ett namn på servern i DNS. I mitt fall heter servern api01.kommun.se och är det namn jag använder fortlöpande i dokumentet.
 
 När Ubuntu är installerat kör följande:
 
