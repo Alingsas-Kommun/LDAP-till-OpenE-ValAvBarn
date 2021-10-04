@@ -101,4 +101,6 @@ Se koden index.php
 
 I Open E ställer man i val av barnfrågan så här
 
+![](https://it.alingsas.se/wp-content/uploads/2021/10/valavbarniopene.png)
+
 Viola, nu är Skola och klass med i svaret i Open E.
