@@ -21,7 +21,7 @@ När Ubuntu är installerat kör följande:
 
 Efter detta starta om server med sudo reboot.
 
-Du kommer att kunna surfa in på [http://api01.alingsas.se](http://api01.alingsas.se/) och se en testsida från Ubuntu.
+Du kommer att kunna surfa in på http://api01.kommun.se/ och se en testsida från Ubuntu.
 
 Alla filer ligger i mappen /var/www/html på servern.
 
