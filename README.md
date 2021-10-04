@@ -97,7 +97,7 @@ Se koden index.php
 
 ### Resultatet från koden är
 
-![](RackMultipart20211004-4-1grswkl_html_8e3063aca4839ced.gif)
+![](https://it.alingsas.se/wp-content/uploads/2021/10/classandschoolfromstudent01.png)
 
 I Open E ställer man i val av barnfrågan så här
 
