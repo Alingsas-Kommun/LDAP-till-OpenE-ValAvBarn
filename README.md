@@ -47,7 +47,7 @@ ldap\_set\_option(NULL, LDAP\_OPT\_DEBUG\_LEVEL, 7);
 
 Så här kan man sätt upp säkerheten kring servern
 
-![](RackMultipart20211004-4-1grswkl_html_294b66d0d6c054e2.png)
+![](https://it.alingsas.se/wp-content/uploads/2021/10/serversetup.png)
 
 Servern har lokal brandvägg installerad samtidigt som kommunens större brandvägg skyddar.
 
