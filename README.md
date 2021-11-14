@@ -2,6 +2,12 @@
 
 Dokumentet beskriver hur man kan bygga en enkel server som tillhanda håller REST-api, JSON/XML-listor samt skapar exportfiler. Tanken är från början att ta ut information från katalogtjänsten för att tillhandahålla den till Open E.
 
+Open E är ett system för e-tjänster vanligt hos kommuner. Syftet med denna instruktion är att kunna använda data från vår katalogtjänst och visa upp i Open E på ett säkert sätt.
+
+Länk: http://www.oeplatform.org
+
+LDAP är ett protokoll för en katalogtjänst. Länk: https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
+
 ## Installation
 
 Servern är en Linuxserver, Ubuntu LTS. Detta dokument har enbart exempel från Ubuntu. Vilken linux eller windowsversion som helst fungerar.
