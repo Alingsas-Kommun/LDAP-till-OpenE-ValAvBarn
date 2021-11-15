@@ -35,6 +35,7 @@
 
     // Definera LDAP-filter. Prova gärna filter i LDAP-browser först
     $filter = "workforceid=" . $workforceid;
+    $filter = ldap_escape($filter, null, LDAP_ESCAPE_FILTER);
 
     // Ip-adress eller DNS namn på den server som är LDAP-server. Exempel: 192.168.1.200 eller ldap1.alingsas.se
     $ldap_host = "192.168.1.2";
